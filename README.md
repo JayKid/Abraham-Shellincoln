@@ -11,6 +11,7 @@ And type your password.
 Now you just have to execute these lines:
 
 > cp drawAbraham.sh /bin/
+
 > gedit /etc/bash.bashrc &
 
 Add this line at the end of the file:
