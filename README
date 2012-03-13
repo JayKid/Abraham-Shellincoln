@@ -15,6 +15,6 @@ Now you just have to execute these lines:
 
 Add this line at the end of the file:
 
-alias abraham='sh drawAbraham.sh'
+alias abraham='sh /bin/drawAbraham.sh'
 
 Save file, reset your shell and you're done!
