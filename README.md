@@ -4,14 +4,14 @@ To get his power, follow this steps in your shell:
 
 Get root access by doing:
 
-> # sudo su
+> sudo su
 
 And type your password.
 
 Now you just have to execute these lines:
 
-> # cp drawAbraham.sh /bin/
-> # gedit /etc/bash.bashrc &
+> cp drawAbraham.sh /bin/
+> gedit /etc/bash.bashrc &
 
 Add this line at the end of the file:
 
@@ -21,6 +21,6 @@ Save file, reset your shell and you're done!
 
 Just type this in your shell:
 
-> # abraham
+> abraham
 
 and enjoy the marvellous Ascii magic :D
