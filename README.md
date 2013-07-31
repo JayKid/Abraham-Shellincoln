@@ -1,6 +1,6 @@
 This is the first version of Abraham Shellincoln
 
-To get his power, follow this steps in your shell:
+To get his power, follow these steps in your shell ->
 
 Get root access by doing:
 
@@ -8,7 +8,7 @@ Get root access by doing:
 
 And type your password.
 
-Now you just have to execute these lines:
+Now, you just have to execute these lines:
 
 > cp drawAbraham.sh /bin/
 
